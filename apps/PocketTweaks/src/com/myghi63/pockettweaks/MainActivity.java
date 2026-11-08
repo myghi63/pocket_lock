@@ -32,7 +32,7 @@ public class MainActivity extends PreferenceActivity
     public boolean onPreferenceChange(Preference preference, Object newValue) {
         if (KEY_POCKET_JUDGE.equals(preference.getKey())) {
             setPocketJudgeEnabled((Boolean) newValue);
-            preference.setChecked((Boolean) newValue);
+            ((SwitchPreference) preference).setChecked((Boolean) newValue);
             return true;
         }
         return false;
