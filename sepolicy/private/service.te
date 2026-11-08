@@ -1,0 +1,3 @@
+# Pocket detection service registered by system_server.
+# Private on purpose: public types require a private/compat/V.v cil entry.
+type pocket_service, system_server_service, service_manager_type;

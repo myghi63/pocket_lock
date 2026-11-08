@@ -1,0 +1,2 @@
+# PocketTweaks (android.uid.system -> system_app) queries the pocket service
+allow system_app pocket_service:service_manager find;
