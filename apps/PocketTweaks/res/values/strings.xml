@@ -2,6 +2,9 @@
 <resources>
     <string name="app_name">Pocket Tweaks</string>
 
+    <string name="pocket_settings_title">Pocket Lock</string>
+    <string name="pocket_settings_summary">Block accidental touches and keys while the device is in a pocket</string>
+
     <string name="pocket_judge_title">Pocket detection</string>
-    <string name="pocket_judge_summary">Block touch and keys input while the proximity sensor reports the device is in a pocket. Long press power to dismiss.</string>
+    <string name="pocket_judge_summary">Block touch and key input while the device reports it is in a pocket. Volume keys keep working. Long press power to dismiss.</string>
 </resources>
