@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Tweaks</string>
+
+    <string name="pocket_judge_title">Pocket detection</string>
+    <string name="pocket_judge_summary">Block touch and keys input while the proximity sensor reports the device is in a pocket. Long press power to dismiss.</string>
+</resources>

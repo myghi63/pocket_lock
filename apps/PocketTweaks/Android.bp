@@ -1,0 +1,13 @@
+package {
+    // See here for license info.
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+android_app {
+    name: "PocketTweaks",
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+    manifest: "AndroidManifest.xml",
+    platform_apis: true,
+    certificate: "platform",
+}
