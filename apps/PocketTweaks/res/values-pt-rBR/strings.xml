@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Tweaks</string>
+
+    <string name="pocket_settings_title">Modo de bolso</string>
+    <string name="pocket_settings_summary">Bloqueia toques e teclas acidentais quando o telefone está no bolso</string>
+
+    <string name="pocket_judge_title">Detecção de bolso</string>
+    <string name="pocket_judge_summary">Bloqueia a tela e as teclas enquanto o telefone estiver no bolso. Os botões de volume continuam funcionando. Segure o botão liga/desliga para sair.</string>
+</resources>
