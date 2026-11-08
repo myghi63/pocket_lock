@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations for the pocket lock strings (patch chain adds them to
+     core/res). Text taken verbatim from crDroid's Crowdin translations,
+     core/res/res/values-nl-rNL/cr_strings.xml of crdroidandroid/android_frameworks_base. -->
+<resources>
+    <string name="pocket_mode_title">Pocket mode is aan</string>
+    <string name="pocket_mode_illustration_description">Illustratie van de telefoon in zak</string>
+    <string name="pocket_mode_instructions_header">Om je telefoon te gebruiken:</string>
+    <string name="pocket_mode_instruction_step1">1. Zorg ervoor dat de blauwe oppervlakte (nabijheidssensor) hierboven onbelemmerd en vrij is van vuil of stof.</string>
+    <string name="pocket_mode_instruction_step2">2. Houd de aan/uit-knop ingedrukt om de broekzak modus te sluiten.</string>
+</resources>

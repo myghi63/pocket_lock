@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations for the pocket lock strings (patch chain adds them to
+     core/res). Text taken verbatim from crDroid's Crowdin translations,
+     core/res/res/values-zh-rCN/cr_strings.xml of crdroidandroid/android_frameworks_base. -->
+<resources>
+    <string name="pocket_mode_title">口袋检测已开启</string>
+    <string name="pocket_mode_illustration_description">口袋检测说明</string>
+    <string name="pocket_mode_instructions_header">如需使用您的手机：</string>
+    <string name="pocket_mode_instruction_step1">1. 确保上面显示的蓝色区域 ( 距离传感器 ) 不受遮挡，且没有泥土或灰尘。</string>
+    <string name="pocket_mode_instruction_step2">2. 按住电源按钮可退出口袋检测。</string>
+</resources>

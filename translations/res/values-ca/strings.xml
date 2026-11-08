@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Not translated upstream (AOSPA keeps these strings English-only; crDroid has
+     no translation for this locale yet). Best-effort, needs native review. -->
+<resources>
+    <string name="pocket_mode_title">El mode butxaca és actiu</string>
+    <string name="pocket_mode_illustration_description">Il·lustració del telèfon a la butxaca</string>
+    <string name="pocket_mode_instructions_header">Per utilitzar el telèfon:</string>
+    <string name="pocket_mode_instruction_step1">1. Assegureu-vos que l\'àrea blava (sensor de proximitat) que es mostra a dalt està lliure d\'obstruccions, brutícia o pols.</string>
+    <string name="pocket_mode_instruction_step2">2. Mantingueu premut el botó d\'encesa per sortir del mode butxaca.</string>
+</resources>

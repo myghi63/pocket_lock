@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Not translated upstream (AOSPA keeps these strings English-only; crDroid has
+     no translation for this locale yet). Best-effort, needs native review. -->
+<resources>
+    <string name="pocket_mode_title">โหมดอยู่ในกระเป๋าเปิดใช้งาน</string>
+    <string name="pocket_mode_illustration_description">ภาพประกอบโทรศัพท์ในกระเป๋า</string>
+    <string name="pocket_mode_instructions_header">เพื่อใช้โทรศัพท์:</string>
+    <string name="pocket_mode_instruction_step1">1. ตรวจสอบให้แน่ใจว่าพื้นที่สีน้ำเงิน (เซ็นเซอร์ตรวจจับระยะ) ที่แสดงด้านบนโล่งและไม่มีสิ่งสกปรกหรือฝุ่น</string>
+    <string name="pocket_mode_instruction_step2">2. กดปุ่มเปิด/ปิดค้างไว้เพื่อออกจากโหมดอยู่ในกระเป๋า</string>
+</resources>

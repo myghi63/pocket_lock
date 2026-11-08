@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Not translated upstream (AOSPA keeps these strings English-only; crDroid has
+     no translation for this locale yet). Best-effort, needs native review. -->
+<resources>
+    <string name="pocket_mode_title">Način džepa je aktivan</string>
+    <string name="pocket_mode_illustration_description">Ilustracija telefona u džepu</string>
+    <string name="pocket_mode_instructions_header">Za korištenje telefona:</string>
+    <string name="pocket_mode_instruction_step1">1. Provjerite je li plavo područje (senzor blizine) prikazano gore slobodno i bez prljavštine ili prašine.</string>
+    <string name="pocket_mode_instruction_step2">2. Dugo pritisnite gumb za uključivanje da izađete iz načina džepa.</string>
+</resources>

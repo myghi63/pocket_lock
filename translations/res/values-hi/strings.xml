@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Not translated upstream (AOSPA keeps these strings English-only; crDroid has
+     no translation for this locale yet). Best-effort, needs native review. -->
+<resources>
+    <string name="pocket_mode_title">पॉकेट मोड सक्रिय है</string>
+    <string name="pocket_mode_illustration_description">पॉकेट में फ़ोन का चित्र</string>
+    <string name="pocket_mode_instructions_header">फ़ोन उपयोग करने के लिए:</string>
+    <string name="pocket_mode_instruction_step1">1. सुनिश्चित करें कि ऊपर दिखाया गया नीला क्षेत्र (प्रॉक्सिमिटी सेंसर) अवरोधमुक्त और गंदगी या धूल से मुक्त है।</string>
+    <string name="pocket_mode_instruction_step2">2. पॉकेट मोड से बाहर निकलने के लिए पावर बटन को दबाए रखें।</string>
+</resources>

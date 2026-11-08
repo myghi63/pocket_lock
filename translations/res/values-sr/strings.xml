@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Not translated upstream (AOSPA keeps these strings English-only; crDroid has
+     no translation for this locale yet). Best-effort, needs native review. -->
+<resources>
+    <string name="pocket_mode_title">Режим џепа је активан</string>
+    <string name="pocket_mode_illustration_description">Илустрација телефона у џепу</string>
+    <string name="pocket_mode_instructions_header">Да бисте користили телефон:</string>
+    <string name="pocket_mode_instruction_step1">1. Уверите се да је плава област (сензор близине) приказана горе слободна и без прљавштине или прашине.</string>
+    <string name="pocket_mode_instruction_step2">2. Држите дугме за укључивање дуго да изађете из режима џепа.</string>
+</resources>

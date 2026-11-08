@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translations for the pocket lock strings (patch chain adds them to
+     core/res). Text taken verbatim from crDroid's Crowdin translations,
+     core/res/res/values-iw-rIL/cr_strings.xml of crdroidandroid/android_frameworks_base. -->
+<resources>
+    <string name="pocket_mode_title">מצב כיס מופעל</string>
+    <string name="pocket_mode_illustration_description">תרשים של טלפון בכיס</string>
+    <string name="pocket_mode_instructions_header">לשימוש בטלפון שלך:</string>
+    <string name="pocket_mode_instruction_step1">1. יש לוודא שהאזור הכחול (חיישן הקירבה) המוצג מעלה גלוי ואין עליו אבק או לכלוך.</string>
+    <string name="pocket_mode_instruction_step2">2. ליחצו והחזיקו את כפתור ההפעלה ליציאה ממצב כיס.</string>
+</resources>

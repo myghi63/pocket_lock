@@ -1,0 +1,16 @@
+package {
+    // See here for license info.
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+// Translations for the pocket lock strings added by the patch chain to
+// core/res (framework package "android"), applied as a static RRO like
+// Lineage's own LanguagePack approach. AOSPA (patch author) ships these
+// strings English-only; the text here is crDroid's Crowdin translation
+// (core/res/res/values-*/cr_strings.xml), kept out of the patch chain.
+runtime_resource_overlay {
+    name: "PocketTranslations",
+    manifest: "AndroidManifest.xml",
+    resource_dirs: ["res"],
+    vendor: true,
+}
